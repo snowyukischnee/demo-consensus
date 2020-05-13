@@ -5,7 +5,6 @@ Go 1.13+
 ## Quickstarts
 ### Build
 ```shell script
-cd rdm
 go build main.go
 ```
 ### Bootstrap new cluster
@@ -73,7 +72,6 @@ curl -X GET 127.0.0.1:10002
 ## Usage
 ### Build
 ```shell script
-cd rdm
 go build main.go
 ```
 ### Run
